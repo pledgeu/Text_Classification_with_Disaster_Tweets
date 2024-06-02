@@ -81,7 +81,7 @@ Optimize the model by adjusting hyperparameters to enhance performance.
 ## Example: Text Classification for Disaster Tweets ##
 Below is an example of a text classification model for disaster tweets using PyTorch:
 
-![Neural Network Architecture.jpg](神经网络.jpg)
+![Neural Network Architecture.jpg](Neural Network.jpg)
 
 ```python
 import torch
