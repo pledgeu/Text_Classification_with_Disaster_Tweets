@@ -829,7 +829,7 @@ test_loader = DataLoader(test_dataset, batch_size=32, shuffle=False)
 
 ## Train model ##
 
-![%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519160910.jpg](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240519160910.jpg)
+![神经网络.jpg](神经网络.jpg)
 <center>Model architecture</center>
 
 
