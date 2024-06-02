@@ -830,7 +830,6 @@ test_loader = DataLoader(test_dataset, batch_size=32, shuffle=False)
 ## Train model ##
 
 ![神经网络.jpg](神经网络.jpg)
-<center>Model architecture</center>
 
 
 ```python
